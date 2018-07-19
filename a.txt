@@ -1,0 +1,79 @@
+111？？ 表示我不确定是否要加
+
+前端：
+	js
+	jquery
+	Bootstrap
+	？？AngularJS
+	？？HTML5
+	？？NodeJS
+	？？CSS3
+	？？新合用前端框架研究：ZUI等
+
+框架：
+	？？数据库持久化：JPA
+	模板引擎：Velocity（gx用）/Freemarker
+	权限控制：Shiro
+	定时任务：
+		Quartz（gx用）
+		分布式定时任务：
+			Elastic-job 当当（相对稳定，功能不如TbSchedule）
+			TbSchedule 阿里（代码很老，停止维护，功能强大）
+			Saturn 唯品会（目前不是很稳定）
+		
+开发：
+	版本管理：git
+	开发工具：
+		IDEA
+		Eclipse
+	高效率经验：
+		开发技巧
+		开发插件
+	质量管理：
+		代码检查，考虑集成到maven：
+			Alibaba Java Coding Guidelines：中文，经典
+			findbugs：英文，完善
+			Sonar：供销貌似在用
+		单元测试架构：
+
+辅助架构：
+	服务器：
+		？？tomcat
+		spring boot
+	？？分布式锁
+	？？分布式事务锁
+	微服务相关：
+		disconf/Apollo 配置中心
+		？？spring cloud 全套
+		？？log4j/logback+ELK 远程日志 搜集
+
+业务架构：
+	首页缓存架构
+	秒杀限购架构
+
+打包部署：
+	打包：maven
+	自动化部署：Jenkins
+
+环境维护：
+	linux
+	docker
+	？？开发/测试/准生产/生产环境搭建的合理性
+	？？DNS 代替hosts，避免某些手机系统无法设置hosts
+
+数据库：
+	？？集群/分布式/灾备同步/
+	分库/分表
+	索引优化
+	大sql优化
+
+性能安全：
+	流量/压力/性能/sql等监控
+	压力测试
+	性能调优技术
+	？？网关等安全
+
+
+	
+
+
